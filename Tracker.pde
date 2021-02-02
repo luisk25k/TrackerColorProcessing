@@ -1,4 +1,5 @@
 import processing.video.*;
+int i=0;
 
 // Variable for capture device
 Capture video;
